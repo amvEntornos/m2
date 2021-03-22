@@ -11,3 +11,4 @@ local 2
 local 4 y 5
 --------------
 global 3 y 4
+clon_m2 lista 1
