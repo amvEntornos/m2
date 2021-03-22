@@ -1,1 +1,5 @@
 f2
+línea 2.1
+línea 2.2
+párrafo 2.1
+párrafo 2.2
