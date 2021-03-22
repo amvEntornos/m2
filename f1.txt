@@ -7,3 +7,4 @@ párrafo 2
 párrafo 3
 local 1
 local 2
+global 3 y 4
